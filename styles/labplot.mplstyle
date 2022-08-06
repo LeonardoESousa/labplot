@@ -41,7 +41,7 @@ axes.prop_cycle : cycler('color', ['4477AA', 'EE6677', '228833', 'CCBB44', '66CC
 
 # Legend
 legend.frameon : False
-legend.fontsize: 12
+legend.fontsize: 14
 
 #Errorbar
 errorbar.capsize: 5
